@@ -1,0 +1,80 @@
+[31-Mar-2021 06:34:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[31-Mar-2021 11:23:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[31-Mar-2021 14:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[06-Apr-2021 12:10:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[07-Apr-2021 06:45:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[21-Apr-2021 22:28:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[24-Apr-2021 21:00:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[27-Apr-2021 09:02:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[28-Apr-2021 06:31:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[28-Apr-2021 06:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[30-Apr-2021 17:18:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[02-May-2021 13:26:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[07-May-2021 17:19:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[09-May-2021 06:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[11-May-2021 18:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[12-May-2021 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[14-May-2021 17:20:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[22-May-2021 09:01:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[25-May-2021 12:51:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7
+[25-May-2021 22:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/TestCase.php on line 7

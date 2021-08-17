@@ -1,0 +1,196 @@
+[31-Mar-2021 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[31-Mar-2021 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 12
+[31-Mar-2021 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[31-Mar-2021 11:23:52 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[31-Mar-2021 14:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[31-Mar-2021 14:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 12
+[31-Mar-2021 14:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[31-Mar-2021 14:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[08-Apr-2021 07:18:10 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[08-Apr-2021 07:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[08-Apr-2021 07:29:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[27-Apr-2021 09:02:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[27-Apr-2021 09:02:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[27-Apr-2021 09:02:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[27-Apr-2021 09:02:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[28-Apr-2021 06:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[28-Apr-2021 06:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[28-Apr-2021 06:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[28-Apr-2021 06:31:44 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[28-Apr-2021 06:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[28-Apr-2021 06:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[28-Apr-2021 06:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[28-Apr-2021 06:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[02-May-2021 13:26:39 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 21
+[02-May-2021 13:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[02-May-2021 13:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[02-May-2021 13:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[09-May-2021 06:32:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 25
+[09-May-2021 06:32:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[09-May-2021 06:32:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[09-May-2021 06:32:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[11-May-2021 18:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 25
+[11-May-2021 18:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[11-May-2021 18:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[11-May-2021 18:32:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[12-May-2021 02:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 25
+[12-May-2021 02:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 13
+[12-May-2021 02:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 18
+[12-May-2021 02:40:23 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[25-May-2021 12:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 25
+[25-May-2021 12:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 15
+[25-May-2021 12:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 20
+[25-May-2021 12:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/MatchController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/MatchController.php on line 14
+[25-May-2021 12:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20
+[25-May-2021 22:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/AuthController.php on line 25
+[25-May-2021 22:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/ChallengeController.php on line 15
+[25-May-2021 22:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/HomeController.php on line 20
+[25-May-2021 22:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/MatchController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/MatchController.php on line 14
+[25-May-2021 22:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/app/Http/Controllers/API/TeamController.php on line 20

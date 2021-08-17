@@ -1,0 +1,80 @@
+[31-Mar-2021 06:34:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[31-Mar-2021 11:23:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[31-Mar-2021 14:22:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[07-Apr-2021 06:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[08-Apr-2021 07:22:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[21-Apr-2021 22:28:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[24-Apr-2021 21:01:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[27-Apr-2021 09:02:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[28-Apr-2021 06:31:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[28-Apr-2021 06:32:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[30-Apr-2021 17:19:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[02-May-2021 13:26:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[09-May-2021 06:32:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[11-May-2021 18:32:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[12-May-2021 02:40:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[14-May-2021 17:20:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[22-May-2021 09:01:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[25-May-2021 12:51:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8
+[25-May-2021 22:49:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Tests\TestCase' not found in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/tests/Feature/ExampleTest.php on line 8

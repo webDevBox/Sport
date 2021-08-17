@@ -1,0 +1,596 @@
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[31-Mar-2021 06:34:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[31-Mar-2021 11:23:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[31-Mar-2021 11:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[31-Mar-2021 11:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[31-Mar-2021 11:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[31-Mar-2021 11:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[31-Mar-2021 11:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[31-Mar-2021 11:23:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[31-Mar-2021 14:22:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[07-Apr-2021 06:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[07-Apr-2021 06:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[21-Apr-2021 22:28:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[21-Apr-2021 22:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[24-Apr-2021 21:00:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[27-Apr-2021 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[28-Apr-2021 06:31:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[28-Apr-2021 06:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[30-Apr-2021 17:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[30-Apr-2021 17:19:05 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[02-May-2021 13:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[07-May-2021 17:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[07-May-2021 17:19:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[07-May-2021 17:19:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[09-May-2021 06:32:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[09-May-2021 06:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[11-May-2021 18:32:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[12-May-2021 02:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[14-May-2021 17:20:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[22-May-2021 09:01:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[22-May-2021 09:01:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[25-May-2021 12:51:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[25-May-2021 12:51:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[25-May-2021 12:51:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[25-May-2021 12:51:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[25-May-2021 12:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[25-May-2021 12:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[25-May-2021 12:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[25-May-2021 12:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/ChallangeSeeder.php on line 5
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DatabaseSeeder.php on line 5
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/DaySeeder.php on line 5
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/GameSeeder.php on line 5
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/RoleSeeder.php on line 5
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/TeamSeeder.php on line 7
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/UserSeeder.php on line 8
+[25-May-2021 22:49:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/cybexoapps/public_html/sportsapp/database/seeds/VenueSeeder.php on line 7

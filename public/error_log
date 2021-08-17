@@ -1,0 +1,2 @@
+[07-May-2021 10:05:18 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/cybexoapps/public_html/sportsapp/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php on line 79
+[07-May-2021 10:05:35 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/cybexoapps/public_html/sportsapp/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOStatement.php on line 112
